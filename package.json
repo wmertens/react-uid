@@ -40,7 +40,7 @@
     "codecov": "^3.0.2",
     "flow-bin": "^0.76.0",
     "react": "^16.8.5",
-    "react-dom": "^16.7.0-alpha.2",
+    "react-dom": "^16.8.5",
     "react-test-renderer": "^16.4.0",
     "size-limit": "^0.21.1",
     "ts-react-toolbox": "^0.1.21"
